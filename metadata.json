@@ -1,0 +1,5 @@
+{
+  "name": "GoldWatch - Telegram Price Alerter",
+  "description": "A sophisticated dashboard to monitor gold prices with real-time Telegram notifications when prices hit user-defined thresholds. Includes AI-powered market sentiment analysis.",
+  "requestFramePermissions": []
+}
